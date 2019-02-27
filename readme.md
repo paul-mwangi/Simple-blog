@@ -1,4 +1,4 @@
-<h1>ABOUT<H1><br>
+<h1>ABOUT</H1><br>
 <p>this is a simlpe blog project including simple codes that will allow a learnerto have the capability to build a blog if followed to the letter</p>
  <p>The steps include ways to POST,EDIT,UPDATE and DELETE content in a blog.<p><br>
   <h2>WHY A BLOG</h2>
