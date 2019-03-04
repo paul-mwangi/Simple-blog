@@ -10,4 +10,4 @@ Simply put, when we say a blog, you are able to visualize the end goal of the tu
 <p>Regards</p>
     - Paul Mwangi<br>
     
-    [![Build Status](https://travis-ci.com/paul-mwangi/Simple-blog.svg?branch=master)](https://travis-ci.com/paul-mwangi/Simple-blog)
+   [![Build Status](https://travis-ci.com/paul-mwangi/Simple-blog.svg?branch=master)](https://travis-ci.com/paul-mwangi/Simple-blog)
