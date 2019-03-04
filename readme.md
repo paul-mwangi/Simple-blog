@@ -8,5 +8,6 @@ Simply put, when we say a blog, you are able to visualize the end goal of the tu
 <h2>FRAMEWORK</H2>
     <p>Laravel v5.8.0<p><br>
 <p>Regards</p>
-    - Paul Mwangi
-[![Build Status](https://travis-ci.com/paul-mwangi/Simple-blog.svg?branch=master)](https://travis-ci.com/paul-mwangi/Simple-blog)
+    - Paul Mwangi<br>
+    
+    [![Build Status](https://travis-ci.com/paul-mwangi/Simple-blog.svg?branch=master)](https://travis-ci.com/paul-mwangi/Simple-blog)
