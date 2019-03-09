@@ -11,7 +11,7 @@
 @include('partials.header')
 @yield('content')
 
-<script type="text/javascript" src="{{ URL::to('js/jquery.min.js') }}"></script>
+<script type="text/javascript" src="{{ URL::to('js/jquery-3.3.1.min.js') }}"></script>
 <script type="text/javascript" src="{{ URL::to('js/bootstrap.bundle.min.js') }}"></script>
 @yield('scripts')
 </body>
